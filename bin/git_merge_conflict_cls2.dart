@@ -14,6 +14,9 @@ void main(){
 
   print(" line 7 added to feature");
 
+  print("line 8 from main");
+  print("line 9 from main");
+
 
 
 
