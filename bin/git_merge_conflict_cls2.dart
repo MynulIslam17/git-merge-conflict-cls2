@@ -16,13 +16,13 @@ void main(){
 
   print("line 8 from main");
   print("line 9 from main");
-  print("line 10 from  maibbb");
-
-  print("add this line using ide");
+  print("line 10 from  main");
 
 
 
   print("learnig git");
+
+  print("learning revert");
 
 
 
